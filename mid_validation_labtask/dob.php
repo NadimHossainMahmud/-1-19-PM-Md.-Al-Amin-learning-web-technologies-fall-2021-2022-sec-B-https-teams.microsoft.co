@@ -23,7 +23,7 @@
 	<form method="post" action="#">
 		<fieldset>
 			<legend>Date of Birth</legend>
-			<input type="date" name="dob" value=""> <br>
+			<input type="date" name="dob" value=""> <br> <hr>
 			<input type="submit" name="submit" value="Submit">
 		</fieldset>
 	</form>
