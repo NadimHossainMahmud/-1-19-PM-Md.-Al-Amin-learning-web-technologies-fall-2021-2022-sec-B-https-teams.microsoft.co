@@ -22,7 +22,7 @@
 	<form method="post" action="#">
 		<fieldset>
 			<legend>Name</legend>
-			<input type="text" name="name" value=""> <br>
+			<input type="text" name="name" value=""> <br> <hr>
 			<input type="submit" name="submit" value="Submit">
 		</fieldset>
 	</form>
